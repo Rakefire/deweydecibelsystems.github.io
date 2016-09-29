@@ -29,7 +29,7 @@ header:
     caption_url: https://unsplash.com/
 ~~~
 
-### All Header-Styles 
+### All Header-Styles
 {: .t60 }
 
-{% include list-posts tag='header' %}
+{% include list-posts.html tag='header' %}

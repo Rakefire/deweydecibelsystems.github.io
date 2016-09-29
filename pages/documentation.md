@@ -89,7 +89,7 @@ Quotes mix it up a little bit, if you write long articles. So use quotes:
 
 You can use comments with *Feeling Responsive* by the way of Disqus. If you want to use Disqus-Comments just open `config.yml` and add your `disqus_shortname`. [More on how to use Disqus ›](https://disqus.com/websites/)
 
-By default comments are turned off. You can customize the default behaviour in `config.yml`. To **turn on comments** just add `comments: true` to front matter using the page layout `layout: page`. 
+By default comments are turned off. You can customize the default behaviour in `config.yml`. To **turn on comments** just add `comments: true` to front matter using the page layout `layout: page`.
 
 <small markdown="1">[Up to table of contents](#toc)</small>
 {: .text-right }
@@ -118,7 +118,7 @@ With foundation responsive videos are easy. [More ›](http://foundation.zurb.co
 
 ## Images: Title, Thumbnails, Homepage   {#images}
 
-There are several types of images you can define via front matter. If you want to change the images used in the header have a look at [Style your Header]({{ site.url }}/headers/). 
+There are several types of images you can define via front matter. If you want to change the images used in the header have a look at [Style your Header]({{ site.url }}/headers/).
 
 
 ### Title Images
@@ -229,7 +229,7 @@ Possible parameter for the loop:
 The loop looks like this when you use all parameters. Single parameters are possible of course.
 
 ~~~
-{% raw %}{% include list-posts entries='3' offset='1' category='design' %}{% endraw %}
+{% raw %}{% include list-posts.html entries='3' offset='1' category='design' %}{% endraw %}
 ~~~
 
 ### next-previous-post-in-category.html
@@ -237,7 +237,7 @@ The loop looks like this when you use all parameters. Single parameters are poss
 This include creates a next/previous link to a post of the same category using the first categories-variable in front matter.
 
 ~~~
-{% raw %} {% include next-previous-post-in-category %}{% endraw %}
+{% raw %} {% include next-previous-post-in-category.html %}{% endraw %}
 ~~~
 
 
@@ -255,37 +255,37 @@ If your content is on Jekyll you can use this include to automatically generate 
 This include lets you loop through a collection to list all entries in that collection. If you set »published: false« in front matter of a collection page the page gots filtered out via unless. The following example loops through a collection called *wordpress*.
 
 ~~~
-{% raw %}{% include list-collection collection='wordpress' %}{% endraw %}
+{% raw %}{% include list-collection.html collection='wordpress' %}{% endraw %}
 ~~~
 
 
 ### alert – Embed an alert in your content
 
-This include lets you easily display an alert. To use the include no `.html` ending is necessary. You can use five different kinds of alerts: `warning`, `info`, `success`, `alert` and `text`. 
+This include lets you easily display an alert. To use the include no `.html` ending is necessary. You can use five different kinds of alerts: `warning`, `info`, `success`, `alert` and `text`.
 
 ~~~
-{% raw %}{% include alert warning='This is a warning.' %}
-{% include alert info='An info box.' %}
-{% include alert success='Yeah, you made it!' %}
-{% include alert alert='Danger!' %}
-{% include alert terminal='jekyll -serve' %}
-{% include alert text='Just a note!' %}{% endraw %}
+{% raw %}{% include alert.html warning='This is a warning.' %}
+{% include alert.html info='An info box.' %}
+{% include alert.html success='Yeah, you made it!' %}
+{% include alert.html alert='Danger!' %}
+{% include alert.html terminal='jekyll -serve' %}
+{% include alert.html text='Just a note!' %}{% endraw %}
 ~~~
 
-{% include alert warning='This is a warning.' %}
-{% include alert info='An info box.' %}
-{% include alert success='Yeah, you made it!' %}
-{% include alert alert='Danger!' %}
-{% include alert terminal='jekyll -serve' %}
-{% include alert text='Just a note!' %}
+{% include alert.html warning='This is a warning.' %}
+{% include alert.html info='An info box.' %}
+{% include alert.html success='Yeah, you made it!' %}
+{% include alert.html alert='Danger!' %}
+{% include alert.html terminal='jekyll -serve' %}
+{% include alert.html text='Just a note!' %}
 
 You can even use `<html>`-tags inside the alert. Beware: Use " and ' properly.
 
 ~~~
-{% raw %}{% include alert info='<em>Feeling Responsive</em> is listed on <a href="http://jekyllthemes.org/">http://jekyllthemes.org</a>' %}{% endraw %}
+{% raw %}{% include alert.html info='<em>Feeling Responsive</em> is listed on <a href="http://jekyllthemes.org/">http://jekyllthemes.org</a>' %}{% endraw %}
 ~~~
 
-{% include alert info='<em>Feeling Responsive</em> is listed on <a href="http://jekyllthemes.org/">http://jekyllthemes.org</a>' %}
+{% include alert.html info='<em>Feeling Responsive</em> is listed on <a href="http://jekyllthemes.org/">http://jekyllthemes.org</a>' %}
 
 <small markdown="1">[Up to table of contents](#toc)</small>
 {: .text-right }
