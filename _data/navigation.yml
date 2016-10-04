@@ -6,6 +6,17 @@
   url: "/getting-started/"
   side: left
 
+- title: "Services"
+  url: "/services/"
+  side: left
+  dropdown:
+  - title: "Staging"
+    url: "/services/staging/"
+  - title: "Lighting"
+    url: "/design/lighting/"
+  - title: "Sound"
+    url: "/design/sound/"
+
 - title: "Templates"
   url: "/design/"
   side: left
