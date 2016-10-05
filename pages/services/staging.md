@@ -1,10 +1,11 @@
 ---
-permalink: "/staging/"
 layout: page
-sidebar: left
-subheadline: Templates
-title:  "Page/Post With Left Sidebar"
-teaser: "This is a example of Staging page/post with a sidebar on the left."
+
+permalink: "/staging/"
+
+subheadline: Staging subheadline
+title:  "Staging title"
+teaser: "Staging teaserThis is a example of Staging page/post with a sidebar on the left."
 breadcrumb: true
 image:
     thumb: gallery-example-3-thumb.jpg
