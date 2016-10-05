@@ -12,7 +12,7 @@ image:
     title: gallery-example-3.jpg
     caption_url: http://unsplash.com
 ---
-title:24' x 24' APEX
+title: 24' x 24' APEX
 image:
     thumb: gallery-example-3-thumb.jpg
     title: gallery-example-3.jpg
