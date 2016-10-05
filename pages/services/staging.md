@@ -1,5 +1,5 @@
 ---
-permalink: services2
+permalink: "/staging/"
 layout: page
 sidebar: left
 subheadline: Templates
