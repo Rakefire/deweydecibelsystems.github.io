@@ -4,7 +4,7 @@ layout: page
 sidebar: left
 subheadline: Templates
 title:  "Page/Post With Left Sidebar"
-teaser: "This is a example of page/post with a sidebar on the left."
+teaser: "This is a example of Staging page/post with a sidebar on the left."
 breadcrumb: true
 image:
     thumb: gallery-example-3-thumb.jpg
