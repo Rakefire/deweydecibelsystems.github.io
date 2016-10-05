@@ -11,7 +11,7 @@
   side: left
   dropdown:
   - title: "Staging"
-    url: "/pages/staging/"
+    url: "/staging/"
   - title: "Lighting"
     url: "/design/lighting/"
   - title: "Sound"
