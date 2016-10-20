@@ -1,7 +1,7 @@
 ---
 layout: page
 
-permalink: "/staging/"
+permalink: "/stage/"
 
 subheadline: Staging subheadline
 title:  "Staging title"
