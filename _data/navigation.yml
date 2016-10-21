@@ -10,7 +10,7 @@
   url: "/stage/"
   side: left
   
-  - title: "Sound"
+- title: "Sound"
   url: "/sound/"
   side: left
 
