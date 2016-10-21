@@ -8,7 +8,8 @@ title:  "Staging title"
 teaser: "Staging teaserThis is a example of Staging page/post with a sidebar on the left."
 breadcrumb: false
 header:
-    image_fullwidth: "unsplash_brooklyn-bridge_header.jpg"
+    title: header with text
+    image_fullwidth: unsplash_brooklyn-bridge_header.jpg
     caption: This is a caption for the header image with link
     caption_url: https://unsplash.com/
 
