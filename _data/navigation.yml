@@ -13,6 +13,10 @@
 - title: "Sound"
   url: "/sound/"
   side: left
+  
+- title: "Lighting"
+  url: "/lighting/"
+  side: left
 
 - title: "Templates"
   url: "/design/"
