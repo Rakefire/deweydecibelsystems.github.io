@@ -9,6 +9,10 @@
 - title: "Stage"
   url: "/stage/"
   side: left
+  
+  - title: "Sound"
+  url: "/sound/"
+  side: left
 
 - title: "Templates"
   url: "/design/"
