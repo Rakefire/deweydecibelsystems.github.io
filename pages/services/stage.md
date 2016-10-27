@@ -1,8 +1,6 @@
 ---
 layout: page
-
 permalink: "/stage/"
-
 title:  "Staging"
 teaser: "Providing stages to Ohio and beyond"
 breadcrumb: false
@@ -11,7 +9,6 @@ header:
     image_fullwidth: "apex2420-header.jpg"
     caption: Staged setup at a sweet festival
     caption_url: https://unsplash.com/
-
 ---
 We offer a variety of stage options for venues, rental, concerts, live events, or other corporate needs.
 
