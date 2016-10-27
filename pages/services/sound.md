@@ -8,7 +8,6 @@ title:  "Sound title"
 teaser: "Staging teaserThis is a example of Staging page/post with a sidebar on the left."
 breadcrumb: false
 header:
-    title: Sound rules
     image_fullwidth: apex2420-header.jpg
     caption: This is a caption for the header image with link
     caption_url: https://unsplash.com/
