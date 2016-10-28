@@ -24,6 +24,6 @@ callforaction:
 permalink: /index.html
 homepage: true
 ---
-
+Dewey Decibel Systems is a full service production company that can provide you with everything you need to make your event successful. We can provide anything from a single wireless mic for a meeting or pageant to full concert production.
 
 <div id="videoModal" class="reveal-modal large" data-reveal=""><div class="flex-video widescreen vimeo" style="display: block;"> <iframe width="1280" height="720" src="https://www.youtube.com/embed/3b5zCFSmVvU" frameborder="0" allowfullscreen=""></iframe></div><a class="close-reveal-modal">&#215;</a></div>
