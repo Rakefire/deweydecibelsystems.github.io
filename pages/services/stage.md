@@ -5,7 +5,6 @@ title:  "Staging"
 teaser: "Providing stages to Ohio and beyond"
 breadcrumb: false
 header:
-    title: header with text
     image_fullwidth: "apex2420-header.jpg"
     caption: Staged setup at a sweet festival
     caption_url: https://unsplash.com/
