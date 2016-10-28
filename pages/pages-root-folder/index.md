@@ -2,6 +2,7 @@
 layout: frontpage
 header:
   image_fullwidth: header_unsplash_12.jpg
+h2: Dewey Decibel Systems provides live sound, lighting and staging to help make you next event a success.  
 widget1:
   title: APEX Stage
   url: 'http://phlow.github.io/feeling-responsive/blog/'
