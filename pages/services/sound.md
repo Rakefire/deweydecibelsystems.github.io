@@ -1,14 +1,12 @@
 ---
 layout: page
-
 permalink: "/sound/"
-
 subheadline: Sound subheadline
 title:  "Sound title"
-teaser: "Staging teaserThis is a example of Staging page/post with a sidebar on the left."
+teaser: "Sound teaser"
 breadcrumb: false
 header:
-    image_fullwidth: apex2420-header.jpg
+    image_fullwidth: ddbs-ohio-sound.jpg
     caption: This is a caption for the header image with link
     caption_url: https://unsplash.com/
 
