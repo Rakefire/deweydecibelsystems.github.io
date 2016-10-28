@@ -1,15 +1,12 @@
 ---
 layout: page
-
 permalink: "/lighting/"
-
 subheadline: All of the lights
-title:  "Staging title"
-teaser: "Staging teaserThis is a example of Staging page/post with a sidebar on the left."
+title:  "Lighting title"
+teaser: "Lighting teaser!"
 breadcrumb: false
 header:
-    title: header with text
-    image_fullwidth: unsplash_brooklyn-bridge_header.jpg
+    image_fullwidth: ddbs-ohio-lighting.jpg
     caption: This is a caption for the header image with link
     caption_url: https://unsplash.com/
 
