@@ -2,7 +2,9 @@
 layout: frontpage
 header:
   image_fullwidth: header_unsplash_12.jpg
-## Dewey Decibel Systems provides live sound, lighting and staging to help make you next event a success.  
+title: "Dewey Decibel Systems provides live sound, lighting and staging to help make you next event a success."
+subheadline: "Quality Service Since 1992"
+teaser: "With <em>Feeling Responsive</em> you don't need a special portfolio template. Just check out the great possibilities of the <a href='http://foundation.zurb.com/docs/components/grid.html'>foundation grid</a> and experiment with it."
 widget1:
   title: APEX Stage
   url: 'http://phlow.github.io/feeling-responsive/blog/'
