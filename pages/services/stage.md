@@ -1,5 +1,6 @@
 ---
 layout: page
+sidebar: right
 permalink: "/stage/"
 title:  "Staging"
 teaser: "Providing stages to Ohio and beyond"
