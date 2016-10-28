@@ -2,9 +2,6 @@
 layout: frontpage
 header:
   image_fullwidth: header_unsplash_12.jpg
-title: "Dewey Decibel Systems provides live sound, lighting and staging to help make you next event a success."
-subheadline: "Quality Service Since 1992"
-teaser: "With <em>Feeling Responsive</em> you don't need a special portfolio template. Just check out the great possibilities of the <a href='http://foundation.zurb.com/docs/components/grid.html'>foundation grid</a> and experiment with it."
 widget1:
   title: APEX Stage
   url: 'http://phlow.github.io/feeling-responsive/blog/'
@@ -27,4 +24,6 @@ callforaction:
 permalink: /index.html
 homepage: true
 ---
-no Dewey Decibel Systems is a full service production company that can provide
+no Dewey Decibel Systems is a full service production company that can provide you with everything you need to make your event successful. We can provide anything from a single wireless mic for a meeting or pageant to full concert production.
+
+<div id="videoModal" class="reveal-modal large" data-reveal=""><div class="flex-video widescreen vimeo" style="display: block;"> <iframe width="1280" height="720" src="https://www.youtube.com/embed/3b5zCFSmVvU" frameborder="0" allowfullscreen=""></iframe></div><a class="close-reveal-modal">&#215;</a></div>
