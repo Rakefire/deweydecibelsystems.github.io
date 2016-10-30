@@ -10,7 +10,7 @@ tags:
     - post format
 image:
    thumb: "gallery-example-1-thumb.jpg"
-gallery:
+   gallery:
     - image_url: gallery-example-1.jpg
       caption: Great images by Unsplash.com
     - image_url: gallery-example-2.jpg
