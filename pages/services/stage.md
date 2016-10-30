@@ -1,14 +1,10 @@
 ---
 layout: page
-sidebar: right
-permalink: "/stage/"
-title:  "Staging"
-teaser: "Providing stages to Ohio and beyond"
-breadcrumb: false
-header:
-    image_fullwidth: "apex2420-header.jpg"
-    caption: Staged setup at a sweet festival
-    caption_url: https://unsplash.com/
+subheadline:  "Templates"
+title:  "Responsive Galleries with Foundation"
+teaser: "Wanna create a responsive gallery to showcase your portfolio, recent photos or images? It's quite easy thanks to Foundation and <a href='http://foundation.zurb.com/docs/components/clearing.html'>Clearing Lightbox</a>."
+categories:
+    - design
 tags:
     - post format
 image:
@@ -31,6 +27,7 @@ gallery:
     - image_url: gallery-example-8.jpg
       caption: Great images by Unsplash.com
 ---
+
 We offer a variety of stage options for venues, rental, concerts, live events, or other corporate needs.
 
 We offer sales of new stages, rental of mobile stages, semi-trailer stages, and portable stages for your event in various sizes.
