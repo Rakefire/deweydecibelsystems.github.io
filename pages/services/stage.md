@@ -1,16 +1,18 @@
 ---
 layout: page
+sidebar: right
 permalink: "/stage/"
-subheadline:  "Templates"
-title:  "Responsive Galleries with Foundation"
-teaser: "Wanna create a responsive gallery to showcase your portfolio, recent photos or images? It's quite easy thanks to Foundation and <a href='http://foundation.zurb.com/docs/components/clearing.html'>Clearing Lightbox</a>."
-categories:
-    - design
+title:  "Staging"
+teaser: "Providing stages to Ohio and beyond"
+breadcrumb: false
+header:
+    image_fullwidth: "apex2420-header.jpg"
+    caption: Staged setup at a sweet festival
+    caption_url: https://unsplash.com/
 tags:
     - post format
-image:
-   thumb: "gallery-example-1-thumb.jpg"
-   gallery:
+image:  thumb: "gallery-example-1-thumb.jpg"
+gallery:
     - image_url: gallery-example-1.jpg
       caption: Great images by Unsplash.com
     - image_url: gallery-example-2.jpg
@@ -28,14 +30,6 @@ image:
     - image_url: gallery-example-8.jpg
       caption: Great images by Unsplash.com
 ---
-You just need to choose a template like the [`page`][3]- or [`page-fullwidth`][4]-template and then just use `{% raw %}{% include gallery.html %}{% endraw %}`.
-<!--more-->
-
-{% include gallery.html %}
-
-`{% raw %}{% include gallery.html %}{% endraw %}` lets you easily embed a gallery into your post. To use the gallery-include...
-
-
 We offer a variety of stage options for venues, rental, concerts, live events, or other corporate needs.
 
 We offer sales of new stages, rental of mobile stages, semi-trailer stages, and portable stages for your event in various sizes.
@@ -56,7 +50,3 @@ The APEX 2420 is equipped with steel wheels, hydraulic outriggers, all aluminum 
 {% include gallery.html %}
 
 {% include alert.html success='Yeah, you made it!' %}
-
-
-     
-       
