@@ -33,6 +33,9 @@ You just need to choose a template like the [`page`][3]- or [`page-fullwidth`][4
 
 {% include gallery.html %}
 
+`{% raw %}{% include gallery.html %}{% endraw %}` lets you easily embed a gallery into your post. To use the gallery-include...
+
+
 We offer a variety of stage options for venues, rental, concerts, live events, or other corporate needs.
 
 We offer sales of new stages, rental of mobile stages, semi-trailer stages, and portable stages for your event in various sizes.
