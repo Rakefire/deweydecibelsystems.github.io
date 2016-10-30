@@ -9,6 +9,24 @@ header:
     image_fullwidth: "apex2420-header.jpg"
     caption: Staged setup at a sweet festival
     caption_url: https://unsplash.com/
+gallery:
+    - image_url: gallery-IMG_0214.jpg
+       caption: Starting Page with huge One Logo
+    - image_url: gallery-IMG_0215.jpg
+       caption: Starting Page with huge One Logo
+    - image_url: gallery-IMG_0216.jpg
+       caption: Starting Page with huge One Logo
+    - image_url: gallery-IMG_0218.jpg
+       caption: Starting Page with huge One Logo
+    - image_url: gallery-IMG_0221.jpg
+       caption: Starting Page with huge One Logo
+    - image_url: gallery-IMG_0343.jpg
+       caption: Starting Page with huge One Logo
+    - image_url: gallery-IMG_0344.jpg
+       caption: Starting Page with huge One Logo
+
+
+
 ---
 We offer a variety of stage options for venues, rental, concerts, live events, or other corporate needs.
 
