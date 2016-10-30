@@ -9,6 +9,8 @@ header:
     image_fullwidth: "apex2420-header.jpg"
     caption: Staged setup at a sweet festival
     caption_url: https://unsplash.com/
+tags:
+    - post format
 image:
    thumb: "gallery-example-1-thumb.jpg"
 gallery:
