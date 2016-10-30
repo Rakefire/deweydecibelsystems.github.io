@@ -28,6 +28,10 @@ gallery:
     - image_url: gallery-example-8.jpg
       caption: Great images by Unsplash.com
 ---
+You just need to choose a template like the [`page`][3]- or [`page-fullwidth`][4]-template and then just use `{% raw %}{% include gallery.html %}{% endraw %}`.
+<!--more-->
+
+{% include gallery.html %}
 
 We offer a variety of stage options for venues, rental, concerts, live events, or other corporate needs.
 
