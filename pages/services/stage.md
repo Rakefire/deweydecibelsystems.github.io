@@ -29,9 +29,22 @@ The APEX 2420 is equipped with steel wheels, hydraulic outriggers, all aluminum 
 
 {% include alert.html success='Yeah, you made it!' %}
 
-image:
-    thumb: gallery-example-3-thumb.jpg
-    title: gallery-example-3.jpg
-    caption_url: http://unsplash.com
+{% include gallery.html %}
 
-*Feeling Responsive* shows metadata by default. The default behavior can be changed via `config.yml`. To show metadata at the end of a page/post just add the following to front matter:
+gallery:
+    - image_url: gallery-IMG_0214.jpg
+       caption: Starting Page with huge One Logo
+    - image_url: gallery-IMG_0215.jpg
+       caption: Starting Page with huge One Logo
+    - image_url: gallery-IMG_0216.jpg
+       caption: Starting Page with huge One Logo
+    - image_url: gallery-IMG_0218.jpg
+       caption: Starting Page with huge One Logo
+    - image_url: gallery-IMG_0221.jpg
+       caption: Starting Page with huge One Logo
+    - image_url: gallery-IMG_0343.jpg
+       caption: Starting Page with huge One Logo
+    - image_url: gallery-IMG_0344.jpg
+       caption: Starting Page with huge One Logo
+     
+       
