@@ -24,9 +24,6 @@ gallery:
        caption: Starting Page with huge One Logo
     - image_url: gallery-IMG_0344.jpg
        caption: Starting Page with huge One Logo
-
-
-
 ---
 We offer a variety of stage options for venues, rental, concerts, live events, or other corporate needs.
 
