@@ -29,5 +29,8 @@ The APEX 2420 is equipped with steel wheels, hydraulic outriggers, all aluminum 
 
 ![My helpful screenshot]({{ site.url }}/images/gallery-IMG_0214.jpg)
 
+![My helpful screenshot]({{ site.url }}/images/gallery-IMG_0215.jpg)
+
+![My helpful screenshot]({{ site.url }}/images/gallery-IMG_0344.jpg)
 
 {% include alert.html success='Yeah, you made it!' %}
