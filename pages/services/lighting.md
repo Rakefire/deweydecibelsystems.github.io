@@ -28,9 +28,8 @@ Aenean tincidunt leo vel eros cursus laciniaAenean tincidunt leo vel eros cursus
 ![Apex 2420 Mount Carmel]({{ site.url }}/images/apex2420_mountcarmel.jpg)
 *caption 2*
 
-<iframe width="480" height="360" src="https://youtu.be/mXecuyQ8B6A" frameborder="0"> </iframe>
+{% youtube mXecuyQ8B6A %}
 
-<iframe width="480" height="360" src="https://youtu.be/1XLqeo5L494" frameborder="0"> </iframe>
-
+{% youtube 1XLqeo5L494 %}
 
 {% include alert.html success='CALL TO ACTION GOES HERE' %}
