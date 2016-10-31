@@ -26,8 +26,4 @@ Aenean tincidunt leo vel eros cursus laciniaAenean tincidunt leo vel eros cursus
 ![Apex 2420 empty]({{ site.url }}/images/apex2420_april-craze.jpg)
 *caption 1*
 
-{% youtube mXecuyQ8B6A %}
-
-{% youtube 1XLqeo5L494 %}
-
 {% include alert.html success='CALL TO ACTION GOES HERE' %}
