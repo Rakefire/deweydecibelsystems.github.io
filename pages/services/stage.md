@@ -27,10 +27,11 @@ Featuring a 24' x 20' stage deck (with 13' of stage height) and the availability
 
 The APEX 2420 is equipped with steel wheels, hydraulic outriggers, all aluminum construction trailer frame, two single axels, and a gas powered motor. The stage deck uses the same custom floor extrusion as the 3224 to make adding additional decks seamless and easy. The handrail system is compatible and interchangeable with the 3224 stage.
 
-![Apex 2420 empty]({{ site.url }}/images/gallery-IMG_0214.jpg)
-*Caption 1*
+![Apex 2420 empty]({{ site.url }}/images/apex2420_april-craze.jpg)
+*Apex 2420 stage at Wright State University in Dayton*
 
-![My helpful screenshot]({{ site.url }}/images/gallery-IMG_0215.jpg)
+![My helpful screenshot]({{ site.url }}/images/apex2420_mountcarmel.jpg)
+*Apex 2420 as the Creekside Community Stage at the 2016 Creekside Blues & Jazz Festival in Gahanna, OH.*
 
 ![My helpful screenshot]({{ site.url }}/images/gallery-IMG_0344.jpg)
 
