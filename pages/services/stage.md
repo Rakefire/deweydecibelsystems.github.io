@@ -2,6 +2,7 @@
 layout: page
 sidebar: right
 permalink: "/stage/"
+subheadline: Sound subheadline
 title:  "Staging"
 teaser: "Providing stages to Ohio and beyond"
 breadcrumb: false
