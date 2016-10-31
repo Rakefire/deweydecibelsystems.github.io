@@ -27,7 +27,8 @@ Featuring a 24' x 20' stage deck (with 13' of stage height) and the availability
 
 The APEX 2420 is equipped with steel wheels, hydraulic outriggers, all aluminum construction trailer frame, two single axels, and a gas powered motor. The stage deck uses the same custom floor extrusion as the 3224 to make adding additional decks seamless and easy. The handrail system is compatible and interchangeable with the 3224 stage.
 
-![My helpful screenshot]({{ site.url }}/images/gallery-IMG_0214.jpg)
+![Apex 2420 empty]({{ site.url }}/images/gallery-IMG_0214.jpg)
+*Caption 1*
 
 ![My helpful screenshot]({{ site.url }}/images/gallery-IMG_0215.jpg)
 
