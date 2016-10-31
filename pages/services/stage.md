@@ -9,26 +9,22 @@ header:
     image_fullwidth: "apex2420-header.jpg"
     caption: Staged setup at a sweet festival
     caption_url: https://unsplash.com/
-tags:
-    - post format
-image:  
-    thumb: "gallery-example-1-thumb.jpg"
-gallery:
-    - image_url: gallery-example-1.jpg
+images:
+    - image_path: /images/gallery-example-1.jpg
       caption: Great images by Unsplash.com
-    - image_url: gallery-example-2.jpg
+    - image_path: /images/gallery-example-1.jpg
       caption: Great images by Unsplash.com
-    - image_url: gallery-example-3.jpg
+    - image_path: /images/gallery-example-1.jpg
       caption: Great images by Unsplash.com
-    - image_url: gallery-example-4.jpg
+    - image_path: /images/gallery-example-1.jpg
       caption: Great images by Unsplash.com
-    - image_url: gallery-example-5.jpg
+    - image_path: /images/gallery-example-1.jpg
       caption: Great images by Unsplash.com
-    - image_url: gallery-example-6.jpg
+    - image_path: /images/gallery-example-1.jpg
       caption: Great images by Unsplash.com
-    - image_url: gallery-example-7.jpg
+    - image_path: /images/gallery-example-1.jpg
       caption: Great images by Unsplash.com
-    - image_url: gallery-example-8.jpg
+    - image_path: /images/gallery-example-1.jpg
       caption: Great images by Unsplash.com
 ---
 We offer a variety of stage options for venues, rental, concerts, live events, or other corporate needs.
