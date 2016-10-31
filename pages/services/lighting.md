@@ -11,12 +11,25 @@ header:
     caption_url: https://unsplash.com/
 
 ---
+Aenean tincidunt leo vel eros cursus laciniaAenean tincidunt leo vel eros cursus lacinia. Mauris lorem lectus, aliquam a aliquet non, eleifend non velit. Fusce quis libero id tortor commodo consectetur. Duis vehicula mollis arcu in lacinia. Proin dapibus eros id augue scelerisque auctor. Curabitur at enim a eros eleifend lacinia vitae sed nisi. Aenean ultrices turpis non nibh suscipit sit amet laoreet est sagittis. Nullam condimentum consequat eros. Maecenas ac tellus vitae libero ornare vulputate. Mauris id nunc ligula, vel auctor massa. Suspendisse potenti. Etiam et quam vitae justo malesuada eleifend ut vitae quam. Sed nec libero neque, sed commodo odio.
 
-24' x 24' APEX
+* an asterisk starts an unordered list
+* and this is another item in the list
++ or you can also use the + character
+- or the - character
 
-image:
-    thumb: gallery-example-3-thumb.jpg
-    title: gallery-example-3.jpg
-    caption_url: http://unsplash.com
+Aenean tincidunt leo vel eros cursus laciniaAenean tincidunt leo vel eros cursus lacinia. Mauris lorem lectus, aliquam a aliquet non, eleifend non velit. Fusce quis libero id tortor commodo consectetur. Duis vehicula mollis arcu in lacinia. Proin dapibus eros id augue scelerisque auctor. Curabitur at enim a eros eleifend lacinia vitae sed nisi. Aenean ultrices turpis non nibh suscipit sit amet laoreet est sagittis. Nullam condimentum consequat eros. Maecenas ac tellus vitae libero ornare vulputate. Mauris id nunc ligula, vel auctor massa. Suspendisse potenti. Etiam et quam vitae justo malesuada eleifend ut vitae quam. Sed nec libero neque, sed commodo odio.
 
-*Feeling Responsive* shows metadata by default. The default behavior can be changed via `config.yml`. To show metadata at the end of a page/post just add the following to front matter:
+Aenean tincidunt leo vel eros cursus laciniaAenean tincidunt leo vel eros cursus lacinia. Mauris lorem lectus, aliquam a aliquet non, eleifend non velit. Fusce quis libero id tortor commodo consectetur. Duis vehicula mollis arcu in lacinia. Proin dapibus eros id augue scelerisque auctor. Curabitur at enim a eros eleifend lacinia vitae sed nisi. Aenean ultrices turpis non nibh suscipit sit amet laoreet est sagittis. Nullam condimentum consequat eros. Maecenas ac tellus vitae libero ornare vulputate. Mauris id nunc ligula, vel auctor massa. Suspendisse potenti. Etiam et quam vitae justo malesuada eleifend ut vitae quam. Sed nec libero neque, sed commodo odio.
+
+![Apex 2420 empty]({{ site.url }}/images/apex2420_april-craze.jpg)
+*caption 1*
+
+![Apex 2420 Mount Carmel]({{ site.url }}/images/apex2420_mountcarmel.jpg)
+*caption 2*
+
+[[embed url=https://youtu.be/mXecuyQ8B6A]]
+
+[[embed url=https://youtu.be/1XLqeo5L494]]
+
+{% include alert.html success='CALL TO ACTION GOES HERE' %}
