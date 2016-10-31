@@ -1,7 +1,7 @@
 ---
 layout: page-fullwidth
 permalink: "/photos/"
-title:  "The Full-Width Page Template"
+title:  "All the great photos"
 subheadline:  "Photo Gallery"
 teaser: "The full-width page format gives you all the space you need to show your content using the grid."
 header:
