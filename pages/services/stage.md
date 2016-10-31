@@ -10,29 +10,32 @@ header:
     caption: Staged setup at a sweet festival
     caption_url: https://unsplash.com/
 ---
-We offer a variety of stage options for venues, rental, concerts, live events, or other corporate needs.
+Lorem ipsum dolor sit amet, consectetur adipiscing elitLorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ullamcorper, nunc vel imperdiet rhoncus, sapien diam convallis tortor, nec accumsan justo dui eget nibh. Nunc purus risus, viverra a lobortis non, cursus non orci. Nulla metus mi, tristique sit amet accumsan eget, aliquet ac augue. Pellentesque ipsum mi, bibendum quis viverra non, posuere quis odio. Cras sodales ornare facilisis. Praesent placerat, sapien rhoncus pulvinar egestas, arcu purus ultricies mauris, at imperdiet dui nisl id risus. Mauris elementum turpis non ligula sodales rhoncus. Aliquam erat volutpat. Sed vel tortor nunc. Vestibulum at dolor velit. In non magna non nulla tempus porttitor quis vitae magna.
 
-We offer sales of new stages, rental of mobile stages, semi-trailer stages, and portable stages for your event in various sizes.
+Lorem ipsum dolor sit amet, consectetur adipiscing elitLorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ullamcorper, nunc vel imperdiet rhoncus, sapien diam convallis tortor, nec accumsan justo dui eget nibh. Nunc purus risus, viverra a lobortis non, cursus non orci. Nulla metus mi, tristique sit amet accumsan eget, aliquet ac augue. Pellentesque ipsum mi, bibendum quis viverra non, posuere quis odio. Cras sodales ornare facilisis. Praesent placerat, sapien rhoncus pulvinar egestas, arcu purus ultricies mauris, at imperdiet dui nisl id risus. Mauris elementum turpis non ligula sodales rhoncus. Aliquam erat volutpat. Sed vel tortor nunc. Vestibulum at dolor velit. In non magna non nulla tempus porttitor quis vitae magna.
 
-We offer stage roofs and covers, stairs, and many other items related to stages for live concerts and events.  Contact us to discuss your staging needs and let us help you plan your stage.
+Lorem ipsum dolor sit amet, consectetur adipiscing elitLorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ullamcorper, nunc vel imperdiet rhoncus, sapien diam convallis tortor, nec accumsan justo dui eget nibh. Nunc purus risus, viverra a lobortis non, cursus non orci. Nulla metus mi, tristique sit amet accumsan eget, aliquet ac augue. Pellentesque ipsum mi, bibendum quis viverra non, posuere quis odio. Cras sodales ornare facilisis. Praesent placerat, sapien rhoncus pulvinar egestas, arcu purus ultricies mauris, at imperdiet dui nisl id risus. Mauris elementum turpis non ligula sodales rhoncus. Aliquam erat volutpat. Sed vel tortor nunc. Vestibulum at dolor velit. In non magna non nulla tempus porttitor quis vitae magna.
 
-We are an authorized distributor for a number of different staging, riser, and platform national manufacturers.
+{% pullquote %}
+When writing long-form posts, I find it helpful to include pull-quotes, which help
+those scanning a post discern whether or not a post is helpful. It is important to 
+note, {" pull-quotes are merely visual in presentation and should not appear twice in the text. "} That 
+is why it is preferred to use a CSS only technique for styling pull-quotes.
+{% endpullquote %}
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elitLorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ullamcorper, nunc vel imperdiet rhoncus, sapien diam convallis tortor, nec accumsan justo dui eget nibh. Nunc purus risus, viverra a lobortis non, cursus non orci. Nulla metus mi, tristique sit amet accumsan eget, aliquet ac augue. Pellentesque ipsum mi, bibendum quis viverra non, posuere quis odio. Cras sodales ornare facilisis. Praesent placerat, sapien rhoncus pulvinar egestas, arcu purus ultricies mauris, at imperdiet dui nisl id risus. Mauris elementum turpis non ligula sodales rhoncus. Aliquam erat volutpat. Sed vel tortor nunc. Vestibulum at dolor velit. In non magna non nulla tempus porttitor quis vitae magna.
  
-
-
-24' x 20'
-APEX 2420
-
-Featuring a 24' x 20' stage deck (with 13' of stage height) and the availability to be towed with a gooseneck by a one ton truck, this is the "little brother" to our popular APEX 3224. It is the perfect stage for smaller venue professional productions. The flybys can hold an impressive 2,000 lbs each and an additional 4,000 lbs of cargo can be secured and hauled inside the enclosed trailer.
-
-The APEX 2420 is equipped with steel wheels, hydraulic outriggers, all aluminum construction trailer frame, two single axels, and a gas powered motor. The stage deck uses the same custom floor extrusion as the 3224 to make adding additional decks seamless and easy. The handrail system is compatible and interchangeable with the 3224 stage.
-
 ![Apex 2420 empty]({{ site.url }}/images/apex2420_april-craze.jpg)
-*Apex 2420 stage at Wright State University in Dayton*
+*Apex 2420 at Wright State University in Dayton*
 
-![My helpful screenshot]({{ site.url }}/images/apex2420_mountcarmel.jpg)
+![Apex 2420 Mount Carmel]({{ site.url }}/images/apex2420_mountcarmel.jpg)
 *Apex 2420 as the Creekside Community Stage at the 2016 Creekside Blues & Jazz Festival in Gahanna, OH.*
 
-![My helpful screenshot]({{ site.url }}/images/gallery-IMG_0344.jpg)
+![Apex 2420 Athens HallOUween]({{ site.url }}/images/apex2420_athens-halloween.jpg)
+*Apex 2420 on Court Street in Athens, OH, as part of HallOUween block party.*
 
-{% include alert.html success='Yeah, you made it!' %}
+![Apex 2420 side view of stage]({{ site.url }}/images/apex2420_side-view.jpg)
+*Side view of Apex 2420*
+
+
+{% include alert.html success='CALL TO ACTION GOES HERE' %}
